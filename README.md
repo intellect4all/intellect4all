@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellect4all&langs_count=10&theme=tokyonight&layout=compact" alt="Intellect's :: Top Langs" /></p>
 
-[![Intellect's GitHub stats](https://github-readme-stats.vercel.app/api?username=intellect4all&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Intellect's GitHub stats](https://github-readme-stats.vercel.app/api?username=intellect4all&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **intellect4all/intellect4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
