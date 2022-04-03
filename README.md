@@ -23,7 +23,7 @@
 [![wakatime](https://wakatime.com/badge/user/437f0b72-1231-4c4b-acb0-0ded1f5264e5.svg)](https://wakatime.com/@437f0b72-1231-4c4b-acb0-0ded1f5264e5)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **intellect4all/intellect4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
