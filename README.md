@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=intellect4all)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **intellect4all/intellect4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
