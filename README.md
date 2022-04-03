@@ -6,6 +6,13 @@
 
 <p align="center"> [![Intellect's GitHub stats](https://github-readme-stats.vercel.app/api?username=intellect4all&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
 
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=intellect4all&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats" alt="Intellect's GitHub stats" />
+  </a>
+</p>
+
 <!--
 **intellect4all/intellect4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
