@@ -20,7 +20,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellect4all&langs_count=10&theme=tokyonight&layout=compact&hide=html" alt="Intellect's :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellect4all&langs_count=8&theme=tokyonight&layout=compact&hide=html,css" alt="Intellect's :: Top Langs" /></p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -33,8 +33,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect" alt="Intellect's Wakatime stats" />
 </p>
 
-
-[![Intellect's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect)]
 <!--
 **intellect4all/intellect4all** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
