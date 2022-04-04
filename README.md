@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently learning Java, Kotlin, and android development, and DSA
-- 😄 I'm interested in mobile development, backend, and system design/engineering.
+- 🔭 I’m currently learning Java, Kotlin, Swift, and DSA
+- 😄 I'm interested in mobile development, backend development, and system design/engineering.
 - 🌱 I’m hoping to study CS at a reputable institution sometimes in the future :)
 - 👯 I’m looking to collaborate on open-source flutter projects
 
