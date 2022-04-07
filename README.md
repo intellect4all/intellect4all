@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/437f0b72-1231-4c4b-acb0-0ded1f5264e5.svg)](https://wakatime.com/@437f0b72-1231-4c4b-acb0-0ded1f5264e5)
 # I am Abdul-Jemeel
 
-<p><em>Flutter Developer at <a href="https://notionpress.com/">Notion Press Pvt., India.</a>
+<p><em>Software Engineer at <a href="https://notionpress.com/">Notion Press Pvt., India.</a>
   </em></p>
   
 
