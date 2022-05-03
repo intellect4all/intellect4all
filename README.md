@@ -12,10 +12,10 @@
 
 
 
-- 🔭 I’m currently learning Java, Kotlin, Swift, and DSA
-- 😄 I'm interested in mobile development, backend development, and system design/engineering.
-- 🌱 I’m hoping to study CS at a reputable institution sometimes in the future :)
-- 👯 I’m looking to collaborate on open-source flutter projects
+- 🔭 I’m currently learning to master Java, Kotlin, Swift, and DSA
+- 😄 I'm interested in mobile development, backend development, and system design.
+- 🌱 I’m hoping to study CS (MSc.) at a reputable institution sometimes in the future :)
+- 👯 I’m open to collaborate on open-source flutter projects
 
 
 <h4 align="center">Top langs :tongue:</h4>
