@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/437f0b72-1231-4c4b-acb0-0ded1f5264e5.svg)](https://wakatime.com/@437f0b72-1231-4c4b-acb0-0ded1f5264e5)
 # I am Abdul-Jemeel
 
-<p><em>Software Engineer at <a href="https://notionpress.com/">Notion Press Pvt., India.</a>
+<p><em>Software Engineer at <a href="https://www.chore.ng/">Chore Technologies.</a>
   </em></p>
   
 
@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently learning to master Java, Kotlin, Swift, and DSA
+
 - 😄 I'm interested in mobile development, backend development, and system design.
 - 🌱 I’m hoping to study CS (MSc.) at a reputable institution sometimes in the future :)
 - 👯 I’m open to collaborate on open-source flutter projects
