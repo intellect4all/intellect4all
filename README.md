@@ -20,7 +20,7 @@
 <h1>Skills 🚀</h1>
 
 ![Website](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Website](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)][youtube]
+![Website](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![Website](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Website](https://img.shields.io/badeldge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Website](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
