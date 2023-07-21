@@ -2,9 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/437f0b72-1231-4c4b-acb0-0ded1f5264e5.svg)](https://wakatime.com/@437f0b72-1231-4c4b-acb0-0ded1f5264e5)
 # I am Abdul-Jemeel
-
-<p><em>Software Engineer at <a href="https://www.chore.ng/">Chore Technologies.</a>
-  </em></p>
   
 
   [![Twitter: Intellect](https://img.shields.io/twitter/follow/intellect4all?style=social)](https://twitter.com/intellect4all)
@@ -48,7 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=intellect4all&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats" alt="Intellect's GitHub stats" />
   </a>
 </p>
-
 
 
 
