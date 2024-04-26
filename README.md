@@ -49,7 +49,7 @@
 
 <h1>
   Wakatime
-</h1>h1
+</h1>
 
 <p align="center">
     
