@@ -14,6 +14,7 @@
 - 👯 I’m open to collaborate on open-source flutter projects
 
 
+
 <h1>Skills 🚀</h1>
 
 ![Website](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,8 +47,21 @@
   </a>
 </p>
 
-
+<h1>
+  Wakatime
+</h1>h1
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect" alt="Intellect's Coding stats" />
+    
+  <figure><embed src="https://wakatime.com/share/@CodeWithIntellect/b5827d9e-28c5-4f53-8b73-637218324ff2.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@CodeWithIntellect/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@CodeWithIntellect/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg"></embed></figure>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect" alt="Intellect's Coding stats" />
 </p>
+
+
+
+
