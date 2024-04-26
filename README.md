@@ -59,6 +59,8 @@
 
 <figure><embed src="https://wakatime.com/share/@CodeWithIntellect/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg"></embed></figure>
 
+<img src="https://wakatime.com/share/@CodeWithIntellect/6faab2b9-36cf-4fae-bf3d-f9fdd06ed5b5.svg" alt="Intellect's Coding stats" />
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodeWithIntellect" alt="Intellect's Coding stats" />
 </p>
 
